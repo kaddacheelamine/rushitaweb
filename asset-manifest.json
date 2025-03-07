@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be184829.css",
+    "main.js": "/static/js/main.18cbba72.js",
+    "static/js/692.b4e87a6f.chunk.js": "/static/js/692.b4e87a6f.chunk.js",
+    "static/media/VERSION-OCTOBRE-2024.csv": "/static/media/VERSION-OCTOBRE-2024.054d6f387a4aeee15a61.csv",
+    "static/media/elmeg1.jpg": "/static/media/elmeg1.fcc5d32ad154a3ae0238.jpg",
+    "index.html": "/index.html",
+    "main.be184829.css.map": "/static/css/main.be184829.css.map",
+    "main.18cbba72.js.map": "/static/js/main.18cbba72.js.map",
+    "692.b4e87a6f.chunk.js.map": "/static/js/692.b4e87a6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be184829.css",
+    "static/js/main.18cbba72.js"
+  ]
+}
